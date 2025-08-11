@@ -16,4 +16,4 @@ The USA is the top country for sales, followed by Australia; NA (Not Available) 
 Top customers mostly come from France, and the Mountain Bike is the best-selling product.
 
 Next Steps
-The analysis will be extended by examining Year-over-Year sales trends to understand growth patterns over time and performing Customer Segmentation to identify distinct groups based on buying behavior and demographics.
+The analysis will be extended by examining Year-over-Year sales trends to understand growth patterns over time and performing Customer Segmentation to identify distinct groups based on buying behavior and
