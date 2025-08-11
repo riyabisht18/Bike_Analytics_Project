@@ -1,19 +1,37 @@
-Exploratory Data Analysis (EDA) Project
-Project Overview
-This analysis explores core data from customers, products, and sales tables to understand the overall business landscape. Key metrics such as total revenue, quantity sold, customer demographics, product categories, and sales distribution across countries and products were extracted and examined.
+# Bike Analytics Project – Exploratory Data Analysis (EDA)
 
-Key Findings
-Customers mostly come from seven countries, with some missing country data (marked as NA).
+Welcome to the EDA phase of the **Bike Analytics Project**! This repository contains an in-depth analysis of customer, product, and sales data to uncover valuable insights for business growth and strategy.
 
-The business sells four main product categories: Bikes, Components, Accessories, and Clothing.
+---
 
-Bikes are the main revenue driver, contributing $28 million of the $29 million total revenue.
+## 📊 Project Overview
 
-The oldest customer is 109 years old, while the youngest is 39, showing a wide age range.
+This analysis investigates data from the following sources:
+- **Customers**: Demographics, locations, and age distribution
+- **Products**: Categories, performance, and revenue contribution
+- **Sales**: Revenue, quantities sold, and geographical breakdown
 
-The USA is the top country for sales, followed by Australia; NA (Not Available) data shows the lowest revenue.
+**Objectives:**
+- Understand revenue drivers and sales patterns
+- Identify top-performing products and customer segments
+- Highlight key markets and growth opportunities
 
-Top customers mostly come from France, and the Mountain Bike is the best-selling product.
+---
 
-Next Steps
-The analysis will be extended by examining Year-over-Year sales trends to understand growth patterns over time and performing Customer Segmentation to identify distinct groups based on buying behavior and
+## 🚩 Key Findings
+
+- Customers represent **seven countries** (with some missing/NA data)
+- The company offers **four main product categories**: Bikes, Components, Accessories, and Clothing
+- **Bikes** generate the majority of revenue, accounting for **$28M out of $29M**
+- Customer age ranges from **39 to 109 years**
+- The **USA** leads in sales, followed by Australia; records with NA countries show the lowest revenue
+- Most top customers are from **France**
+- The **Mountain Bike** is the best-selling product
+
+---
+
+## 🔍 Next Steps
+
+- Analyze **Year-over-Year sales trends** to track growth and seasonality
+- Perform **Customer Segmentation** to reveal distinct buying behaviors and target groups
+- Develop actionable recommendations based on the findings
