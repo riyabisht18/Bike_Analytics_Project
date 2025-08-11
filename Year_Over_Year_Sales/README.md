@@ -1,31 +1,46 @@
-Project Overview
-This analysis explores sales trends over multiple years, product performance, and customer segmentation to provide insights for business growth and strategic decisions.
+# Year-over-Year Sales Analysis
 
-Analysis Summary
-Yearly Sales Trends
-The peak sales year was 2013, generating nearly $16 million in revenue.
+This project delivers a detailed Year-over-Year (YoY) analysis of sales performance, product trends, and customer segmentation to support business growth and strategic decision-making.
 
-A sharp decline occurred in 2014, with sales dropping to approximately $45,642, despite a decrease in average prices. This suggests factors beyond pricing, such as market demand, discounts, and seasonality, significantly impact sales performance.
+---
 
-Running totals and moving averages were calculated to capture overall sales trends and highlight seasonal patterns.
+## 📊 Project Overview
 
-Product Sales Performance
-Products were analyzed yearly to compare current sales with their historical averages. Some showed growth, others declined, while a few remained stable year-over-year.
+The analysis examines:
+- **Sales Trends Across Multiple Years**: Revealing growth patterns and market shifts.
+- **Product Performance**: Comparing products annually to identify bestsellers and underperformers.
+- **Customer Segmentation**: Classifying customers by purchase history and lifetime value.
 
-Bikes are the primary revenue drivers, accounting for around 96.46% of total sales.
+---
 
-The majority of products (approximately 110) are priced under $100, with a small subset (39 products) priced above $1000, indicating limited variety in high-value offerings.
+## 🗝️ Analysis Summary
 
-Customer Segmentation Insights
-Customers were classified into three groups based on purchase history and spending:
+### Yearly Sales Trends
 
-VIP: Customers active for 12+ months with spending over $5,000.
+- **2013** marked the peak sales year, generating nearly **$16 million** in revenue.
+- **2014** saw a sharp decline, with sales dropping to approximately **$45,642**, even as average prices decreased. This indicates that factors beyond pricing—such as market demand, discounts, and seasonality—significantly influenced sales.
+- **Running totals** and **moving averages** were used to highlight overall sales trends and seasonality.
 
-Regular: Customers active for 12+ months with spending up to $5,000.
+### Product Sales Performance
 
-New: Customers with less than 12 months of activity.
+- Products were evaluated annually, comparing current sales to historical averages.
+- Results revealed a mix of growth, decline, and stability across different products.
+- **Bikes** remain the primary revenue driver, contributing about **96.46%** of total sales.
+- Most products (~110) are priced under **$100**, while only **39** products are priced above **$1,000**, highlighting a limited high-value product range.
 
-The largest segment consists of New customers (~14,631), reflecting strong customer acquisition.
+### Customer Segmentation Insights
 
-The VIP segment is smaller (~1,655 customers), highlighting potential for loyalty programs and targeted marketing to increase high-value customers.
+Customers were categorized based on their purchase history and total spending:
+- **VIP**: Active for 12+ months with over $5,000 in spending (**~1,655 customers**)
+- **Regular**: Active for 12+ months with up to $5,000 in spending
+- **New**: Less than 12 months of activity (**~14,631 customers**)
 
+The largest segment is **New customers**, indicating strong acquisition. The **VIP** group is smaller, suggesting opportunities for loyalty programs and targeted marketing to enhance customer lifetime value.
+
+---
+
+## 🚀 Key Takeaways
+
+- Significant YoY fluctuations highlight the impact of external market factors beyond pricing.
+- Focused strategies for customer retention and premium product development could drive future growth.
+- Continuous monitoring and segmentation are essential for adapting to market changes and maximizing revenue.
