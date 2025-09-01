@@ -16,19 +16,19 @@ Each folder contains SQL scripts and a README explaining the analysis and findin
 
 ## Overall Insights
 
-### 🔶 Customer Base:  
+###  Customer Base:  
 Most customers are **new buyers**, with **VIP customers** contributing a large share of revenue but representing a smaller portion of the customer base. There is significant opportunity to nurture new and regular customers into VIPs through targeted engagement and loyalty programs.
 
-### 🔸 Product Sales:  
+###  Product Sales:  
 **Bikes dominate sales revenue (~96%)**, while Accessories, Components, and Clothing have lower sales but present growth opportunities.
 
-### 🟠 Pricing:  
+###  Pricing:  
 Many products are priced below **`$100`**, limiting revenue potential. Only a few high-priced products drive significant sales.
 
 ### 📈 Sales Trends:  
 Year-over-year sales fluctuate, influenced by factors beyond price, such as seasonality, promotions, and customer behavior.
 
-### 🔄 Customer Behavior:  
+###  Customer Behavior:  
 New customers often become inactive after initial purchase, highlighting a need for retention strategies. Older customers tend to spend more and have longer lifespans.
 
 ### 🌍 Geographic Insights:  
@@ -72,3 +72,4 @@ Some top products haven’t sold recently, indicating seasonality or inventory i
 ---
 
 This approach enhances customer satisfaction and increases service uptake.
+
